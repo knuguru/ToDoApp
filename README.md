@@ -1,6 +1,10 @@
 "# ToDoApp" 
 
-A simple app that allows users to add, update and delete tasks
+A simple app that provides users with an ability to add, update and delete tasks. 
+
+It uses FlatList for rendering the task list and showcases how to use 'useState' and 'useEffect' 
+
+The app can be further extended to provide more features.
 
 ![1](https://github.com/knuguru/ToDoApp/assets/161977397/2935c1d6-c055-463b-ae48-233df50a34d4)
 
